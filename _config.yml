@@ -1,15 +1,15 @@
-typography_spectrum: 0.6958398441784084
+typography_spectrum: 0.37651336938142776
 color:
-  brandStrength: 0.9149324181489646
-  lightness: 0.41991182370111346
-  saturation: 0.16801018337719142
-  rhythmicContrast: 0.14233390311710536
+  brandStrength: 0.723344394704327
+  lightness: 0.9759880909696221
+  saturation: 0.16646783519536257
+  rhythmicContrast: 0.5085942919831723
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-layout_spectrum: 0.2785276847425848
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+layout_spectrum: 0.8609667774289846
 name: mexxxis
 description: copywriter - dgc
